@@ -32,7 +32,8 @@ Due to this plan of collaboration a flat structure will be most beneficial for o
 ## Risks
 The biggest risks to the success of this project will be the time commitment that each one of us can achieve throughout this project. Along this line, the ability for us to submit our deliverables will be crucial for us to continue working on the project and set out the best code and program that we can. Another risk is that we are not able to implement the more complicated inputs to our project. This would leave it somewhat simple and not very interesting. 
 
-**_Additional Infomration_** 
+**_Additional Infomration:_** 
+
 For this project, The following classes will surely help with the completion of our project will be:
 
 1. Debugging
