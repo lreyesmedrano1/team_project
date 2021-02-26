@@ -3,7 +3,7 @@
 Raphael Dunand, Sakshi Haria, Liliana Reyes Medrano
 
 
-## **Big Idea**
+## Big Idea
 The project objective will be to demonstrate the use of Python through the creation of a program that will allow the user to track the carbon footprint they create -- specifically CO2e emissions.  We will strive to collect data from APIs on carbon emissions that are connected with food, travel, and waste.  We hope to minimally achieve the summation of carbon emissions based on inputs given by the user. The stretch goal would be to calculate carbon emissions based on location and additional inputs. More options for the inputs can be added such as which mode of transport was used. More inputs can also be added to stretch the goal even more.
 
 ## **Learning goals**
