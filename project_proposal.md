@@ -11,9 +11,12 @@ As a team, we hope to better understand the use of functions and use of python b
 
 ## **Implementation Plan**
 In order to implement this project, we hope to follow this action plan:
-    1. First, create a function to calculate the CO2e emission for each variable that we decide to implement into the project two
-    2. Secondly, create a function that will be based on the location of choice of the user. It will convert the variables that we will be finding to the locations and calculate the changes that might be present
-    3. Finally, we will create a function that will read the API information that will either read from the site or read from a data folder in the program to extract specific information as desired.
+
+1. First, create a function to calculate the CO2e emission for each variable that we decide to implement into the project two
+
+1. Secondly, create a function that will be based on the location of choice of the user. It will convert the variables that we will be finding to the locations and calculate the changes that might be present
+
+1. Finally, we will create a function that will read the API information that will either read from the site or read from a data folder in the program to extract specific information as desired.
 This will be achieved by the continue learning from class lectures and also through independent research that will be constructed in sections.
 
 
@@ -31,9 +34,10 @@ The biggest risks to the success of this project will be the time commitment tha
 
 *Additional Infomration* 
 For this project, The following classes will surely help with the completion of our project will be:
-    1.Debugging
-    1.Flask Project HTML
-    1.API for calculating distances
+
+1. Debugging
+1. Flask Project HTML
+1. API for calculating distances
 This will allow the team to create a polished version of the project that is not only visually appealing but also user-friendly.
 
 
